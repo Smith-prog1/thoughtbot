@@ -91,3 +91,115 @@ h5{
     color: white;
     font-size: 15px;
 }
+.mat{
+    font-size: 20px;
+    margin-top: 10px;
+}
+.did{
+    border: 1px solid;
+    border: none;
+    background-color: #4c363e;
+    font-size: 30px;
+    color: white;
+    padding: 20px;
+    margin-top: 20px;
+    width: 600px;
+    height: 220px;
+}
+.hr{
+    margin-right: 525px;
+    width: 500px;
+    border: none;
+    background-color: rgb(255, 255, 255);
+    height: 1px;
+    margin-top: 20px;
+}
+.hr:hover{
+    background-color: grey;
+}
+.sign{
+    font-size: 20px;
+    padding-top: 5px;
+}
+.sub{
+    padding: 15px;
+    border-radius: 60px;
+    border: none;
+    background-color: red;
+    color: white;
+    font-size: 20px;
+    margin-left: 400px;
+    margin-top: 10px;
+}
+.look{
+    margin-top: 30px;
+    color: white;
+    font-size: 20px;
+}
+.looks{
+    margin-top: 30px;
+    color: white;
+    font-size: 40px;
+}
+.looks:hover{
+    color: yellow;
+}
+.can{
+    font-size: 30px;
+    color: white;
+    margin-top: 40px;
+    
+}
+.ai{
+    font-size: 25px;
+    color: white;
+}
+.mat{
+    color: rgb(245, 245, 151);
+}
+.mats{
+    font-size: 20px;
+}
+.hh{
+    width: 100%;
+    border: none;
+    background-color: rgb(70, 69, 69);
+    height: 1px;
+    margin-top: 20px;
+}
+.span{
+    margin-top: 20px;
+    color: white;
+    font-size: 20px;
+    padding-left: 200px;
+}
+span{
+    text-decoration: underline dotted;
+}
+.one{
+    color: yellow;
+}
+footer{
+    background-color: #2a1c21;
+    color:white;
+    padding: 50px;
+}
+
+.logo{
+    display:inline-block;
+    width:300px;
+    vertical-align:top;
+}
+
+.column{
+    display:inline-block;
+    width:180px;
+    vertical-align:top;
+    font-size: 20px;
+    margin-left:100px;
+    text-decoration: underline dotted;
+}
+
+.column p{
+    margin-bottom:15px;
+}
