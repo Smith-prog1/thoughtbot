@@ -1,0 +1,93 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #2a1c21 ;
+}
+nav{
+    padding: 20px;
+}
+nav h2{
+    display: inline;
+    margin-right: 300px;
+    font-size: 40px;
+    color: white;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+    font-size: 20px;
+}
+nav a:hover{
+    color: yellow;
+    text-decoration: underline;
+}
+.let{
+    margin-left: 250px;
+    color: white;
+    background-color: red;
+    border: none;
+    border-radius: 40px;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+section{
+    margin-top: 50px;
+    margin-left: 525px;
+}
+.giant{
+    font-size: 50px;
+    color: white;
+    text-align: justify;
+    
+}
+.written{
+    color: white;
+    font-size: 30px;
+    padding-top: 30px;
+}
+hr{
+    margin-right: 525px;
+    width: 700px;
+    border: none;
+    background-color: grey;
+    height: 2px;
+    margin-top: 20px;
+}
+.ons{
+    border-radius: 50px;
+    background-color: #2a1c21;
+    color: white;
+    margin-left: 2px;
+    padding: 15px 30px;
+    font-size: 15px;
+}
+.ons:hover{
+    background-color: rgb(255, 226, 187);
+}
+h4{
+    display: inline;
+    font-size: 25px;
+    margin-left: 5px;
+    color: white;
+    text-decoration: underline dotted;
+}
+h4:hover{
+    color: yellow;
+    text-decoration: none;
+}
+.the{
+    color: white;
+    font-size: 35px;
+    margin-top: 30px;
+}
+.the:hover{
+    color: yellow;
+}
+h5{
+    color: white;
+    font-size: 15px;
+}
